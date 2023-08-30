@@ -1,0 +1,27 @@
+{
+    "header": {
+        "es": "Mis Habilidades",
+        "en": "My Skills"
+      },
+      "title": {
+         "first": {
+            "es": "Lo que",
+            "en": "What"
+         },
+         "second": {
+            "es": "Puedo Hacer",
+            "en": "I can do"
+         }
+        
+      },
+      "paragraph": {
+        "first": {
+            "es": "Siendo un desarrollador, tengo un amplio rango de experiencia en desarrollo front end. Puedo manejarme en Javascript, React, HTML5, CSS3, TailwindCss y Styled Components creando aplicaciones responsivas. Con algo de conocimiento en Photoshop.",
+            "en": "As a Developer, I have a wide range of experience in frontend development. I'm proficiente in Javascript, React, HTML5, CSS3, TailwindCss and Styled Components building responsive applications. With some knowledge on Photoshop."
+        },
+        "second": {
+            "es": "Tengo experiencia usando React para construir aplicaciones escalables y mantenibles. Esto me a permitido crear código escalable y mantenible, que puede adaptarser a los cambios necesarios en el negocio.",
+            "en": "I have experience in using React for building scalable and maintainable applications. This has allowed me to create efficient and sustainable code that can adapt to the changing needs of a business."
+        }      
+      }    
+}

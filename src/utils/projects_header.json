@@ -1,0 +1,23 @@
+{
+    "main": {    
+      "header": {
+        "es": "Mis Proyectos",
+        "en": "My Projects"
+      },
+      "title": {
+         "first": {
+            "es": "Lo que",
+            "en": "What"
+         },
+         "second": {
+            "es": "he construido",
+            "en": "i have built"
+         }
+        
+      },
+      "button": {
+        "es": "Visitar Página",
+        "en": "Visit Website"
+      }
+    }
+}

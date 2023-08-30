@@ -1,0 +1,34 @@
+{
+        "links": [
+        {
+          "id": "home",
+          "title": {
+            "es": "Inicio",
+            "en": "Home"
+          } 
+        },
+        {
+          "id": "skills",
+          "title": {
+            "es": "Habilidades",
+            "en": "Skills"
+          } 
+        },
+        {
+          "id": "projects",
+          "title": {
+            "es": "Proyectos",
+            "en": "Projects"
+          } 
+        },
+        {
+          "id": "contact",
+          "title": {
+            "es": "Contacto",
+            "en": "Contact"
+          } 
+        }
+      ]
+    
+  }
+  

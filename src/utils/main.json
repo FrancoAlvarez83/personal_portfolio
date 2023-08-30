@@ -1,0 +1,35 @@
+
+{
+    "about":{
+        "main":{
+            "text":{
+                "es": "Hola, me llamo Franco Alvarez, soy un desarrollador frontend con mucha hambre de aprender y mejorar.",
+                "en": "Hello, my name is Franco Alvarez and i'm a frontend developer with a lot of hunger to learn as much as i can and be the best in the bussiness."
+            },
+            "title":{
+                "es": "Me llamo",
+                "en": "I'm"
+            },
+            "name": "Franco Alvarez",
+            "salute":{
+                "es": "Hola!",
+                "en": "Hello!"
+            },
+            "me":{
+                "es": "Soy un",
+                "en": "I'm a"
+            }
+        },
+        "other":{
+            "text":{
+                "es":"En mis últimos trabajos, he tenido la responsabilidad y el interés de capacitar a nuevos colaboradores en tecnologías web básicas como lmente disfruto. Los resultados han sido gratificantes tanto a nivel personal para mí como para los demás involucrados.",
+                "en":"In my recent work experiences, I have taken on the responsibility and interest of training new y for me and for others involved."
+            },
+            "title":{
+                "es": "Colaboración y training",
+                "en": "Collaboration and training"
+            }
+        }
+        
+    }
+}
